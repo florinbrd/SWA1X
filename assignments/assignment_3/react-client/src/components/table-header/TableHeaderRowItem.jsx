@@ -1,0 +1,1 @@
+export const TableHeaderRowItem = ({label}) => (<th>{label}</th>)
